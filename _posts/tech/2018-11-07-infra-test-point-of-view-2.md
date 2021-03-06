@@ -6,7 +6,7 @@ tags: IasC テスト
 layout: post
 ---
 
-[Infrastracture Test Point Of View]({{ site.baseurl }}/2018/11/06/infra-test-point-of-view.html)
+[Infrastracture Test Point Of View]({{ site.baseurl }}/posts/infra-test-point-of-view.html)
 
 引き続き、IaCのテストを考えていきたいと思います。
 
